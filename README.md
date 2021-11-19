@@ -8,7 +8,7 @@
 # 🍟 Just Follow It
  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWSKOL03bopsyfS1fH99gcA?style=social)](https://www.youtube.com/channel/UCWSKOL03bopsyfS1fH99gcA) [![GitHub followers](https://img.shields.io/github/followers/realberkay?style=social)](https://github.com/realberkay/)
  # 🏆 Stats
- ![](https://komarev.com/ghpvc/?username=realberkay&color=green)<br>
+![](https://komarev.com/ghpvc/?username=realberkay&style=flat-square)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realb3rkay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  # ✨ Discord
 [<img src="https://discordapp.com/api/guilds/788972735103369327/widget.png?style=banner2" alt="Discord Banner 1"/>](https://discord.gg/PMHMATsJk9)
