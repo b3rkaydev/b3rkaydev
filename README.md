@@ -10,5 +10,3 @@
  # 🏆 Stats
 ![](https://komarev.com/ghpvc/?username=realberkay&style=flat-square)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realb3rkay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- # ✨ Discord
-[<img src="https://discordapp.com/api/guilds/788972735103369327/widget.png?style=banner2" alt="Discord Banner 1"/>](https://discord.gg/PMHMATsJk9)
