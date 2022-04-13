@@ -1,5 +1,5 @@
 # 🔰 B3rkay
-### 👌 Hello, my name is **B3rkay** (also cool) **Im Frontend/Python Developer + JojoFan.**
+### 👌 Hello, my name is **B3rkay** **Im Frontend/Python Developer.**
 ⚪ Im working to be **Fullstack Developer**
 # 🔧 Languages
 ###  <code><img  alt="HTML" width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img  alt="CSS" width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img  alt="Javascript" width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img alt="Python" width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
