@@ -1,6 +1,34 @@
-# 🔰 B3rkay
-### 👋 My name is Berkay. Im a Junior Full-stack developer.
-# 🔧 My Skills
-### [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,jquery,svelte,php,python,linux,sqlite,alpinejs)](https://b3rkay.dev)
-# 🧰 Code Editors I Use
-### [![Code Editors](https://skillicons.dev/icons?i=vscode,atom,vim)](https://b3rkay.dev)
+```
+    __   _____      __              
+   / /_ |__  /_____/ /______ ___  __
+  / __ \ /_ </ ___/ //_/ __ `/ / / /
+ / /_/ /__/ / /  / ,< / /_/ / /_/ / 
+/_.___/____/_/  /_/|_|\__,_/\__, /  
+>>> f𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 𝘥𝘦𝘷eloper     /____/   
+```
+
+:wave: My name is Berkay. Im a **`Full-stack developer.`** I use **Manjaro Linux** on my computer.
+
+**🔗  my website >  [__b3rkay.dev__](https://b3rkay.dev)**<br>
+**📧 my email > [bit@b3rkay.dev](mailto:bit@b3rkay.dev)**
+
+ <kbd style="width:25%">
+   <kbd>
+    <b>Technologies I Use</b>
+  </kbd><br><br>
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=html">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=css">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=scss">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=tailwind">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=js">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=jquery">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=svelte">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=php">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=python">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=linux">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=sqlite">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=alpinejs">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=vscode">
+<img width="40px" style="background:transparent;float:left" src="https://skillicons.dev/icons?i=vim">
+<br><br>
+ </kbd>
