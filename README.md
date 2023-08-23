@@ -7,7 +7,7 @@
 >>> f𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 𝘥𝘦𝘷eloper     /____/   
 ```
 
-:wave: My name is Berkay. Im a **`Full-stack developer.`** I use **Arch Linux** on my computer. I enjoy watching anime and reading manga in my free time.
+:wave: My name is Berkay. I'm a **`Full-stack developer.`** I use **Arch Linux** on my computer. I enjoy watching anime and reading manga in my free time.
 
 **🔗  my website >  [__b3rkay.dev__](https://b3rkay.dev)**<br>
 **📧 my email > [bit@b3rkay.dev](mailto:bit@b3rkay.dev)**
